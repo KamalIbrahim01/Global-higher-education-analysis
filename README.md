@@ -98,17 +98,12 @@ Examines how educational quality relates to alumni outcomes.
 
 ---
 
-## Dashboard Preview
-
-
-![Dashboard Overview](Dashboard_Overview.jpg)
 
 ---
 
 ## Repository Contents
 
 ```text
-├── Dataset
 ├── Excel Dashboard Workbook
 ├── Dashboard Screenshot
 └── README.md
